@@ -45,3 +45,28 @@ STool ist eine App über die Nutzer eigene Werkzeuge zur Verfügung stellen kön
 - Kundenservice
 - Data Scientists
 - Markteing
+
+# Time to Market
+6 Monate
+
+# Budget
+- 350.000€ 2 Datenbankentwickler, 2 Backendentwickler, 2 Frontendentwickler, 1 Architekt (Product Owner)
+- AWS Server 10$/Monat
+(- 150.000€ Markteting)
+
+# Wettbewerbsvorteil
+- Baumarkt Verleih 
+  - lokal 
+  - flexiblere Verfügbarkeit 
+  - günstiger
+  - mehrere Anbieter
+  - private Anbieter profitieren von ihren nicht genutzen Geräten
+  - erweiterbar auf andere Produkte
+- eBay Kleinanzeigen
+  - Leihen
+  - Anbieter profitieren von ihren nicht genutzen Geräten
+- Allgemein
+  - kein direkter Konkurent am Markt
+  - beschder Name
+
+
