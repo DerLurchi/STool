@@ -69,4 +69,9 @@ STool ist eine App über die Nutzer eigene Werkzeuge zur Verfügung stellen kön
   - kein direkter Konkurent am Markt
   - beschder Name
 
+## Links
+# Trello
+<a href="https://trello.com/invite/b/tJm5FOzQ/e43430f187e8403614860cf49fc09d5b/stool">STool Board</a>
+# Visual Paradigm
+<a href="https://online.visual-paradigm.com/share.jsp?id=313333303339332d36">STool Komponentendiagram</a>
 
