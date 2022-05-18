@@ -21,6 +21,11 @@ Cloud SQL
 # Inserate
 ## Datenbank
 
+
+# Bezahlen
+
+# Marketing
+
 # Dataanalyst
 ## Pub/Sub
 10 GB
