@@ -59,7 +59,8 @@
 
 # Cluster
 6 Services, pro Service 1 CPU und 2 GB Ram.<br>
-Die Services Inserate und Benutzerprofile werden wahrscheinlich etwas mehr jeweils 2 CPUs beanspruchen. Die restlichen 4 nur Teilen sich die verbleibenden 2 CPUs entsprechend auf. Der Marketing Service muss auch nur während der Arbeitszeiten laufen (10 h in 5 Tage die Woche. Das schafft extra Reserven am Wochenende, wenn mit dem meisten Traffic gerechnet wird.<br>
+Die Mikroservices, Inserate und Benutzerprofile werden wahrscheinlich mehr als jeweils zwei CPUs beanspruchen. Die restlichen vier Mikroservices Teilen sich auf die verbleibenden 2 CPUs entsprechend auf. <br>
+Der Marketingservice wird nur während den Arbeitszeiten genutzt. Dabei handelt es sich um 5 Tage mit jeweils 10 Stunden. Dadurch werden zum Wochenende Kapazitäten frei, die als Reserve genutzt werden, um den erwarteten Haupttraffic zu verarbeiten.<br>
 Inserate, Benutzerprofil und Bezahlen werden auch bei geringer Auslastung mit einem Pod extra in Reserve betrieben.
 
 Sicherheitsfaktor von 3.
