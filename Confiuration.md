@@ -1,33 +1,33 @@
 # Datenbanken
 ## Nachrichten
-Firestore
-1.000.000 Reads + Writes
-**46,15€**
+- Firestore
+- 1.000.000 Reads + Writes
+- **46,15€**
 
 Cloud SQL
-1 CPU 
-3,75 GB RAM
-250 GB HDD
--> 148,34 €
+- 1 CPU 
+- 3,75 GB RAM
+- 250 GB HDD
+- 148,34 €
 
 <br>
 
 ## Benutzerprofil
 Cloud SQL
-2 CPUs 
-7,5 GB Ram 
-50 GB
-**170,10 €**
+- 2 CPUs 
+- 7,5 GB Ram 
+- 50 GB
+- **170,10 €**
 
 <br>
 
 ## Inserate
 Cloud SQL
-8 CPUs
-52 GB Ram
-2 TB
-2 TB
-**1.158,69 €**
+- 8 CPUs
+- 52 GB Ram
+- 2 TB
+- 2 TB
+- **1.158,69 €**
 
 <br>
 
@@ -41,18 +41,18 @@ Cloud SQL
 
 ## Datenanalyse 
 Pub/Sub
-10 GB
-1 Sub
-**21,84 €**
+- 10 GB
+- 1 Sub
+- **21,84 €**
 
 <br>
 <br>
 
 # BigQuery
-Active Storage: 900 GB
-Longterm Storage: 900 GB
-Query: 3 TB
-**45,21 €**
+- Active Storage: 900 GB
+- Longterm Storage: 900 GB
+- Query: 3 TB
+- **45,21 €**
 
 <br>
 <br>
@@ -66,10 +66,10 @@ Sicherheitsfaktor von 3.
 
 Verteilt auf 3 Nodes für die Stabilität. Falls einer ausfällt sind schnell können die beiden anderen übernehmen.
 
-3 Nodes
-je 6 CPU + 12 RAM
-10 GB Boot Size
-**449,75 €** 
+- 3 Nodes
+- je 6 CPU + 12 RAM
+- 10 GB Boot Size
+- **449,75 €** 
 
 <br>
 <br>
