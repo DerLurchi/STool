@@ -46,7 +46,7 @@
 - 1 CPU 
 - 3,75 GB RAM
 - 250 GB HDD
-- 148,34 €
+**- 148,34 €**
 
 <br>
 
@@ -91,4 +91,7 @@ Verteilt auf 3 Nodes für die Stabilität. Falls einer ausfällt sind schnell k�
 <br>
 
 # Loadbalancer
-
+- Forwarding rules: 6
+- Inbound data processed: 200 GiB
+- Outbound data processed: 200 GiB
+**- Upcoming price change (Effective Oct 2022): EUR 32.85**
