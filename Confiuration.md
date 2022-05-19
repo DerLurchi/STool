@@ -32,10 +32,21 @@
 <br>
 
 ## Bezahlen
-
+Instance type: db-standard-1
+Location: Frankfurt
+730.0 total hours per month
+HDD Storage: 50.0 GiB
+Backup: 50.0 GiB
+Enable High Availability Configuration.
+EUR 126.94
 <br>
 
 ## Marketing
+### Cloud SQL
+- 1 CPU 
+- 3,75 GB RAM
+- 250 GB HDD
+- 148,34 €
 
 <br>
 
@@ -60,7 +71,7 @@
 # Cluster
 6 Services, pro Service 1 CPU und 2 GB Ram.<br>
 <br>
-Die Mikroservices, Inserate und Benutzerprofile werden wahrscheinlich mehr als jeweils zwei CPUs beanspruchen. Die restlichen vier Mikroservices Teilen sich auf die verbleibenden 2 CPUs entsprechend auf. <br>
+Die Mikroservices, Inserate und Benutzerprofile werden wahrscheinlich mehr als jeweils zwei CPUs beanspruchen. Die restlichen vier Mikroservices teilen sich auf die verbleibenden 2 CPUs entsprechend auf. <br>
 <br>
 Der Marketingservice wird nur während den Arbeitszeiten genutzt. Dabei handelt es sich um 5 Tage mit jeweils 10 Stunden. Dadurch werden zum Wochenende Kapazitäten frei, die als Reserve genutzt werden, um den erwarteten Haupttraffic zu verarbeiten.<br>
 <br>
