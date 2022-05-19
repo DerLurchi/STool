@@ -1,10 +1,10 @@
 # Datenbanken
 ## Nachrichten
-- Firestore
+### Firestore
 - 1.000.000 Reads + Writes
 - **46,15€**
 
-Cloud SQL
+### Cloud SQL
 - 1 CPU 
 - 3,75 GB RAM
 - 250 GB HDD
@@ -13,7 +13,7 @@ Cloud SQL
 <br>
 
 ## Benutzerprofil
-Cloud SQL
+### Cloud SQL
 - 2 CPUs 
 - 7,5 GB Ram 
 - 50 GB
@@ -22,7 +22,7 @@ Cloud SQL
 <br>
 
 ## Inserate
-Cloud SQL
+### Cloud SQL
 - 8 CPUs
 - 52 GB Ram
 - 2 TB
@@ -40,7 +40,7 @@ Cloud SQL
 <br>
 
 ## Datenanalyse 
-Pub/Sub
+### Pub/Sub
 - 10 GB
 - 1 Sub
 - **21,84 €**
