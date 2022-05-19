@@ -32,11 +32,11 @@
 <br>
 
 ## Bezahlen
-- Instance type: db-standard-1
-- Location: Frankfurt
-- 730.0 total hours per month
-- HDD Storage: 50.0 GiB
-- Backup: 50.0 GiB
+- 1 CPU
+- 3,75 GB Ram
+- 50 GB HDD
+- 50 GB Backup
+- 24/7
 - Enable High Availability Configuration.
 - EUR 126.94
 <br>
@@ -45,8 +45,10 @@
 ### Cloud SQL
 - 1 CPU 
 - 3,75 GB RAM
-- 250 GB HDD
-**- 148,34 €**
+- 250.0 GB SSD
+- 250.0 GB Backup
+- 10/5
+**- 87.76**
 
 <br>
 
