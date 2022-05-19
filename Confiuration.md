@@ -32,13 +32,13 @@
 <br>
 
 ## Bezahlen
-Instance type: db-standard-1
-Location: Frankfurt
-730.0 total hours per month
-HDD Storage: 50.0 GiB
-Backup: 50.0 GiB
-Enable High Availability Configuration.
-EUR 126.94
+- Instance type: db-standard-1
+- Location: Frankfurt
+- 730.0 total hours per month
+- HDD Storage: 50.0 GiB
+- Backup: 50.0 GiB
+- Enable High Availability Configuration.
+- EUR 126.94
 <br>
 
 ## Marketing
