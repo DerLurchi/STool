@@ -20,6 +20,12 @@ Cloud SQL
 
 # Inserate
 ## Datenbank
+Cloud SQL
+8 CPUs
+52 GB Ram
+2 TB
+2 TB
+**1 158,69 €**
 
 
 # Bezahlen
