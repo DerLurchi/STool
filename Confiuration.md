@@ -8,7 +8,7 @@
 - 1 CPU 
 - 3,75 GB RAM
 - 250 GB HDD
-- 148,34 €
+- **148,34 €**
 
 <br>
 
@@ -38,7 +38,7 @@
 - 50 GB Backup
 - 24/7
 - Enable High Availability Configuration.
-- EUR 126.94
+- **126,94 €**
 <br>
 
 ## Marketing
@@ -48,7 +48,7 @@
 - 250.0 GB SSD
 - 250.0 GB Backup
 - 10/5
-**- 87.76**
+- **87,76 €**
 
 <br>
 
@@ -82,7 +82,7 @@ Inserate, Benutzerprofil und Bezahlen werden auch bei geringer Auslastung mit ei
 
 Sicherheitsfaktor von 3.
 
-Verteilt auf 3 Nodes für die Stabilität. Falls einer ausfällt sind schnell können die beiden anderen übernehmen.
+Verteilt auf 3 Nodes für die Stabilität. Im Falle es fällt ein Node aus, können die zwei anderen übernehmen.
 
 - 3 Nodes
 - je 6 CPU + 12 RAM
