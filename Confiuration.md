@@ -101,3 +101,7 @@ Verteilt auf 3 Nodes für die Stabilität. Im Falle es fällt ein Node aus, kön
 - Inbound data processed: 200 GiB
 - Outbound data processed: 200 GiB
 **- Upcoming price change (Effective Oct 2022): EUR 32.85**
+
+<br><br>
+
+# Summe im Monat: 1701,46
