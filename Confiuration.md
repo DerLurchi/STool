@@ -8,6 +8,7 @@
 - 1 CPU 
 - 3,75 GB RAM
 - 250 GB HDD
+- 24/7
 - **148,34 €**
 
 <br>
@@ -16,7 +17,8 @@
 ### Cloud SQL
 - 2 CPUs 
 - 7,5 GB Ram 
-- 50 GB
+- 50 GB SSD
+- 24/7
 - **170,10 €**
 
 <br>
@@ -25,8 +27,9 @@
 ### Cloud SQL
 - 4 CPUs
 - 26 GB Ram
-- 1 TB
-- 1 TB
+- 1 TB SSD
+- 1 TB Backup
+- 24/7
 - **572,52 €**
 
 <br>
