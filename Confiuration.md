@@ -26,11 +26,11 @@
 ## Inserate
 ### Cloud SQL
 - 4 CPUs
-- 26 GB Ram
+- 15 GB Ram
 - 1 TB SSD
 - 1 TB Backup
 - 24/7
-- **572,52 €**
+- **658,30 €**
 
 <br>
 
@@ -104,4 +104,4 @@ Verteilt auf 3 Nodes für die Stabilität. Im Falle es fällt ein Node aus, kön
 
 <br><br>
 
-# Summe im Monat: 1701,46
+# Summe im Monat: 1787,24
