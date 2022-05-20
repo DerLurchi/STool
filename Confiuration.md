@@ -23,11 +23,11 @@
 
 ## Inserate
 ### Cloud SQL
-- 8 CPUs
-- 52 GB Ram
-- 2 TB
-- 2 TB
-- **1.158,69 €**
+- 4 CPUs
+- 26 GB Ram
+- 1 TB
+- 1 TB
+- **572,52 €**
 
 <br>
 
