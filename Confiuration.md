@@ -35,6 +35,7 @@
 <br>
 
 ## Bezahlen
+### Cloud SQL
 - 1 CPU
 - 3,75 GB Ram
 - 50 GB HDD
