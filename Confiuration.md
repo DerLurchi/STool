@@ -30,6 +30,7 @@
 - 1 TB SSD
 - 1 TB Backup
 - 24/7
+- - Enable High Availability Configuration.
 - **658,30 €**
 
 <br>
