@@ -41,7 +41,6 @@ STool ist eine App über die Nutzer eigene Werkzeuge zur Verfügung stellen kön
   - kommerziell
   - privat
 - Ausleiher
-- Administratoren
 - Kundenservice
 - Data Scientists
 - Markteing
