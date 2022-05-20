@@ -1,6 +1,6 @@
 # ADR 001, Architekturentscheidung für das komplette Projekt
 Status
-- akzeptiert
+- vorgeschlagen
 
 Kontext
 - Da wir als kleines Startup starten, müssen wir die Kosten im Blick behalten, während genug Raum für Skallierung vorhanden sein soll.
@@ -18,7 +18,7 @@ Compliance
 Notizen
 - Original-Autor: Rafael
 - Datum der Genehmigung: 18.05.2022
-- Genehmigt von: Alex, Alex
+- Genehmigt von: -
 - Datum der Ersetzung: -
 - Letztes Änderungsdatum: 20.05.2022
 - Geändert von: Rafael
