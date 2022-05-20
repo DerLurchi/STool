@@ -17,7 +17,7 @@ Compliance
 
 Notizen
 - Original-Autor: Rafael
-- Datum der Genehmigung: 18.05.2022
+- Datum der Genehmigung: -
 - Genehmigt von: -
 - Datum der Ersetzung: -
 - Letztes Änderungsdatum: 20.05.2022
