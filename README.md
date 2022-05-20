@@ -53,6 +53,7 @@ STool ist eine App über die Nutzer eigene Werkzeuge zur Verfügung stellen kön
 - 350.000€ 2 Datenbankentwickler, 2 Backendentwickler, 2 Frontendentwickler, 1 Architekt (Product Owner)
 - AWS Server 10$/Monat
 (- 150.000€ Markteting)
+- monatliche Kosten: 1701,46 €
 
 # Wettbewerbsvorteil
 - Baumarkt Verleih 
